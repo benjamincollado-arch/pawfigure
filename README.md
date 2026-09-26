@@ -1,4 +1,4 @@
-> **About this repository:** pawfigure is a copy of [TradingAgents](https://github.com/TauricResearch/TradingAgents) by Tauric Research, used under the Apache 2.0 license (see [LICENSE](LICENSE) and [NOTICE](NOTICE)). Everything below is the original project's README.
+> **About this repository:** pawfigure is a copy of [TradingAgents](https://github.com/TauricResearch/TradingAgents) by Tauric Research, used under the Apache 2.0 license (see [LICENSE](LICENSE) and [NOTICE](NOTICE)). New here? Start with the plain-English [Setup Guide](SETUP_GUIDE.md). Everything below is the original project's README.
 
 <p align="center">
   <img src="assets/TauricResearch.png" style="width: 60%; height: auto;">
